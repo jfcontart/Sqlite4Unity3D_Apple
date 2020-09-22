@@ -321,9 +321,9 @@ cd ..
 
 mkdir ./${VERSION}
 mkdir ./${VERSION}/macOS
-rm  ./${VERSION}/macOS/sqlite.bundle
+rm  ./${VERSION}/macOS/libsqlite3.0.dylib
 
-cp ./tmp/${VERSION}/sqlite-autoconf-${VERSION}/.libs/libsqlite3.0.dylib ./${VERSION}/macOS/sqlite3.bundle
+cp ./tmp/${VERSION}/sqlite-autoconf-${VERSION}/.libs/libsqlite3.0.dylib ./${VERSION}/macOS/libsqlite3.0.dylib
 
 #---------------------------------------------------------------------------------------------
 
