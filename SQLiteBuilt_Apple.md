@@ -1,5 +1,7 @@
 # SQLCipherBuilt
 
+Version come from https://www.sqlite.org/chronology.html
+
 - open terminal 
 - go to this folder 
 - run : 
