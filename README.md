@@ -52,7 +52,7 @@ save and execute with the version of release:
 
 ```
 cd <this directory>
-./SQLiteBuilt_Apple.sh <version example:4.3.0>
+./SQLiteBuilt_Apple.sh <year> <version example:4.3.0>
 ```
 All is automatic!
 
