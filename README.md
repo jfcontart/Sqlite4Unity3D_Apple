@@ -8,7 +8,7 @@ We already built default binaries for some versions and pushed in this repositor
 
 SQLiteBuilt_Apple.sh build bundle for macOS© (OSX©), lib for iOS© and lib for tvOS©. 
 
-Use with https://github.com/netpyoung/SQCipher4Unity3D .
+Use with https://github.com/netpyoung/SqlCipher4Unity3D .
 
 You need :
 - **Apple©** computer with **macOS 10.15**
@@ -22,7 +22,7 @@ Use the SQLiteBuilt_Apple.sh default
 
 ```
 cd <this directory>
-./SQLiteBuilt_Apple.sh <version example:4.3.0>
+./SQLiteBuilt_Apple.sh <year example 2022> <version example:3370200>
 ```
 All is automatic!
 
